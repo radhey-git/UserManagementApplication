@@ -1,0 +1,304 @@
+2021-09-13 17:24:18 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:24:18 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:24:21 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.195 seconds (JVM running for 494.9)
+2021-09-13 17:27:51 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:27:51 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:27:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.381 seconds (JVM running for 707.225)
+2021-09-13 17:29:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:29:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:29:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.975 seconds (JVM running for 810.012)
+2021-09-13 17:29:50 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:29:50 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:29:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:29:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:29:56 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.83 seconds (JVM running for 828.979)
+2021-09-13 17:31:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:31:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:31:56 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.787 seconds (JVM running for 949.224)
+2021-09-13 17:35:53 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:35:53 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:35:55 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.876 seconds (JVM running for 1188.402)
+2021-09-13 17:39:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:39:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:39:26 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.952 seconds (JVM running for 1399.623)
+2021-09-13 17:39:47 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:39:47 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:39:49 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.177 seconds (JVM running for 1422.451)
+2021-09-13 17:42:59 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:42:59 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:43:01 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.165 seconds (JVM running for 1614.008)
+2021-09-13 17:46:04 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:46:04 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:46:06 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.88 seconds (JVM running for 1799.08)
+2021-09-13 17:46:08 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:46:08 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:46:09 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.646 seconds (JVM running for 1802.796)
+2021-09-13 17:46:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:46:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:46:25 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.859 seconds (JVM running for 1818.147)
+2021-09-13 17:47:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:47:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:47:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.697 seconds (JVM running for 1877.745)
+2021-09-13 17:48:15 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:48:15 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:48:17 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.323 seconds (JVM running for 1930.196)
+2021-09-13 17:50:18 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:50:18 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:50:20 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.365 seconds (JVM running for 2053.191)
+2021-09-13 17:51:27 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:51:27 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:51:28 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.796 seconds (JVM running for 2121.679)
+2021-09-13 17:55:06 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:55:06 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:55:07 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.931 seconds (JVM running for 2340.801)
+2021-09-13 17:55:33 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:55:33 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:55:35 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.316 seconds (JVM running for 2368.407)
+2021-09-13 17:55:46 [http-nio-9090-exec-1] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response 0FuGRR3xX4uSfrEipnCFQQ==
+2021-09-13 17:56:22 [http-nio-9090-exec-5] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response /h2KkGMrnTvbHe6wuSANSw==
+2021-09-13 17:59:13 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 17:59:13 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 17:59:15 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.684 seconds (JVM running for 2588.588)
+2021-09-13 17:59:35 [http-nio-9090-exec-1] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response iPFEY//iTFGt5i0SJtacnQ==
+2021-09-13 18:01:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 1888 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:01:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:01:25 [http-nio-9090-exec-1] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response xJrGbKnLN4a4mm6iov6IXg==
+2021-09-13 18:01:25 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.113 seconds (JVM running for 2718.162)
+2021-09-13 18:01:31 [http-nio-9090-exec-4] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response XaHfZ+ffQuGMMKJVL++c6A==
+2021-09-13 18:01:58 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 6724 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:01:58 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:02:06 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 8.171 seconds (JVM running for 9.75)
+2021-09-13 18:02:06 [http-nio-9090-exec-1] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response 8bDwC/0oc566yO0bDkXUmw==
+2021-09-13 18:02:20 [http-nio-9090-exec-7] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response AntiV3HLJaPIjRB6rI84kQ==
+2021-09-13 18:05:10 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 6724 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:05:10 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:05:13 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.414 seconds (JVM running for 197.452)
+2021-09-13 18:10:26 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 6724 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:10:26 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:10:27 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.995 seconds (JVM running for 511.458)
+2021-09-13 18:11:21 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:11:21 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:11:30 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 9.458 seconds (JVM running for 12.266)
+2021-09-13 18:11:37 [http-nio-9090-exec-6] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response 238VKSPEhCyCA69mCp5iSw==
+2021-09-13 18:22:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:22:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:22:39 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.387 seconds (JVM running for 681.743)
+2021-09-13 18:30:41 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:30:41 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:30:43 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.825 seconds (JVM running for 1165.96)
+2021-09-13 18:31:05 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:31:05 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:31:07 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.066 seconds (JVM running for 1189.39)
+2021-09-13 18:31:59 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:31:59 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:32:00 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.795 seconds (JVM running for 1242.98)
+2021-09-13 18:36:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:36:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:36:56 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.758 seconds (JVM running for 1538.152)
+2021-09-13 18:43:17 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:43:17 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:43:19 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.427 seconds (JVM running for 1921.48)
+2021-09-13 18:43:38 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:43:38 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:43:40 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.841 seconds (JVM running for 1942.398)
+2021-09-13 18:43:52 [http-nio-9090-exec-8] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response kIKUYR4o79DKd+Shkg1Q/Q==
+2021-09-13 18:45:36 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:45:36 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:45:38 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.095 seconds (JVM running for 2060.91)
+2021-09-13 18:46:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:46:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:46:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.39 seconds (JVM running for 2119.593)
+2021-09-13 18:48:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:48:54 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:48:56 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.06 seconds (JVM running for 2258.211)
+2021-09-13 18:51:10 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:51:10 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:51:12 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.947 seconds (JVM running for 2394.126)
+2021-09-13 18:51:21 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:51:21 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:51:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.452 seconds (JVM running for 2406.106)
+2021-09-13 18:55:01 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:55:01 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:55:03 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.872 seconds (JVM running for 2625.547)
+2021-09-13 18:56:07 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:56:07 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:56:08 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 1.646 seconds (JVM running for 2690.803)
+2021-09-13 18:56:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 18:56:23 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 18:56:26 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 3.013 seconds (JVM running for 2708.151)
+2021-09-13 19:01:36 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:01:36 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:01:39 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Started UserManagementAppApplication in 2.822 seconds (JVM running for 3021.333)
+2021-09-13 19:01:39 [http-nio-9090-exec-1] INFO  c.n.userApp.main.utils.PwdUtils -
+				Response ONDRIJnQD3wwji/2X3lysQ==
+2021-09-13 19:07:57 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:07:57 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:19:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:19:37 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:21:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:21:24 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:21:29 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:21:29 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:21:32 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:21:32 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:23:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:23:34 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:25:48 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:25:48 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:27:28 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 4540 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:27:28 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:29:20 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 6956 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:29:20 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-09-13 19:33:52 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				Starting UserManagementAppApplication using Java 1.8.0_251 on User-PC with PID 5444 (G:\NeoSOFT_Workspace\UserManagementApp\target\classes started by User in G:\NeoSOFT_Workspace\UserManagementApp)
+2021-09-13 19:33:52 [restartedMain] INFO  c.n.u.m.UserManagementAppApplication -
+				No active profile set, falling back to default profiles: default
